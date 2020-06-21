@@ -1,0 +1,13 @@
+{
+  "display_name": "Rust, test",
+  "image_name": "cyberdojofoundation/rust_test",
+  "visible_filenames":
+  [
+    "src/lib.rs",
+    "Cargo.toml",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension": [ ".rs" ],
+  "max_seconds": 10,
+  "tab_size": 4
+}
