@@ -1,6 +1,6 @@
 {
   "display_name": "Rust, test",
-  "image_name": "cyberdojofoundation/rust_test:90f7721",
+  "image_name": "cyberdojofoundation/rust_test:d9dae14",
   "visible_filenames": [
     "src/lib.rs",
     "Cargo.toml",
