@@ -8,7 +8,5 @@ edition = "2018"
 
 [dependencies]
 
-
 [features]
-# Treat warnings as a build error.
-strict = []
+strict = [] # Treat warnings as a build error.
