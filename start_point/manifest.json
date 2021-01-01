@@ -1,6 +1,6 @@
 {
   "display_name": "Rust, test",
-  "image_name": "cyberdojofoundation/rust_test:f7e20c6",
+  "image_name": "cyberdojofoundation/rust_test:f68c330",
   "visible_filenames": [
     "src/lib.rs",
     "tests/lib_tests.rs",
