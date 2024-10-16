@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/rust-test.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/rust-test)
+[![Github Action (main)](https://github.com/cyber-dojo-start-points/rust-test/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/rust-test/actions)
 
-### display_name="Rust, test"
-### image_name="[cyberdojofoundation/rust_test](https://hub.docker.com/repository/docker/cyberdojofoundation/rust_test)"
+### display_name="Rust 1.81, test"
+### image_name="[ghcr.io/cyber-dojo-languages/rust_test](https://github.com/cyber-dojo-languages/rust-test/pkgs/container/rust_test)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
