@@ -1,6 +1,6 @@
 {
-  "display_name": "Rust 1.82, test",
-  "image_name": "ghcr.io/cyber-dojo-languages/rust_test:1ebaca4",
+  "display_name": "Rust 1.83, test",
+  "image_name": "ghcr.io/cyber-dojo-languages/rust_test:fecccd8",
   "visible_filenames": [
     "src/lib.rs",
     "tests/lib_tests.rs",
