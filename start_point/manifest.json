@@ -1,12 +1,13 @@
 {
-  "display_name": "Rust 1.93.0, test",
-  "image_name": "ghcr.io/cyber-dojo-languages/rust_test:0a92c80",
+  "display_name": "Rust 1.93.1, test",
+  "image_name": "ghcr.io/cyber-dojo-languages/rust_test:2e43b8c",
   "visible_filenames": [
     "src/lib.rs",
     "tests/lib_tests.rs",
     "Cargo.toml",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".rs"
   ],
