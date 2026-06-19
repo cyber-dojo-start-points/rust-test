@@ -1,5 +1,13 @@
 {
   "display_name": "Rust 1.94.0, test",
+  "language": [
+    "Rust",
+    "1.94.0"
+  ],
+  "test_framework": [
+    "test",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/rust_test:fe2626f",
   "visible_filenames": [
     "src/lib.rs",
