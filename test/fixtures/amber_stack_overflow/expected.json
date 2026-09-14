@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^running 1 test$": 1,
+    "has overflowed its stack$": 1,
+    "^fatal runtime error: stack overflow, aborting$": 1,
+    "^error: test failed, to rerun pass `--lib`$": 1,
+    "^test result: ": 0
+  }
+}

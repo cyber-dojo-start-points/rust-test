@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 27,
+  "match_counts": {
+    "checksum": 0,
+    "^error": 0,
+    "^test life_the_universe_and_everything \\.\\.\\. ok$": 1,
+    "^test result: ok\\. ": 3,
+    "^test result: FAILED": 0
+  }
+}

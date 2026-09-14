@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^test life_the_universe_and_everything \\.\\.\\. ignored$": 1,
+    "\\.\\.\\. ok$": 0,
+    "^test result: ok\\. ": 3,
+    "^test result: ok\\. 0 passed; 0 failed; 1 ignored; ": 1,
+    "^test result: FAILED": 0
+  }
+}

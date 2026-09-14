@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 28,
+  "match_counts": {
+    "^test life_the_universe_and_everything \\.\\.\\. ok$": 1,
+    "^test the_answer_ends_in_two \\.\\.\\. ok$": 1,
+    "^test result: ok\\. ": 3,
+    "^test result: ok\\. 2 passed; 0 failed; 0 ignored; ": 1,
+    "^test result: FAILED": 0
+  }
+}

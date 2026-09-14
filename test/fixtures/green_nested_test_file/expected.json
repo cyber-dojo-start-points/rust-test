@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 27,
+  "match_counts": {
+    "answer_is_two_digits": 0,
+    "^checking the size of the answer$": 0,
+    "sums": 0,
+    "^test life_the_universe_and_everything \\.\\.\\. ok$": 1,
+    "^test result: ok\\. ": 3,
+    "^test result: FAILED": 0
+  }
+}

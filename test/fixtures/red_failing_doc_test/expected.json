@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^test life_the_universe_and_everything \\.\\.\\. ok$": 1,
+    "^test src/lib\\.rs - answer \\(line 5\\) \\.\\.\\. FAILED$": 1,
+    "^  left: 43$": 1,
+    "^ right: 42$": 1,
+    "^error: doctest failed, to rerun pass `--doc`$": 1,
+    "^test result: FAILED\\. 0 passed; 1 failed; 0 ignored; ": 1,
+    "^test result: ok\\. ": 2
+  }
+}
